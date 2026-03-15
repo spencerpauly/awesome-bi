@@ -36,6 +36,7 @@ Your contributions are always welcome! Please check out our [contributing guide]
   * [Books](#books)
   * [Courses](#courses)
 * [Other Awesome Lists](#other-awesome-lists)
+* [querybear.com](https://querybear.com) - Ask your data anything – with persistent memory, schema learning, and more.
 
 ## BI Platforms
 
